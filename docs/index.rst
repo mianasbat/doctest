@@ -14,6 +14,19 @@ Welcome to scikit-surgerycore's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: Requirements
+
+   requirements
+
+.. toctree::
+   :maxdepth: 2
+   :caption: PyCharm
+
+   pycharm
+
+
+.. toctree::
+   :maxdepth: 2
    :caption: Docstring
 
    docstring/modules
@@ -23,7 +36,3 @@ Welcome to scikit-surgerycore's documentation!
    :caption: Index
 
    indices
-
-   requirements
-
-   pycharm
