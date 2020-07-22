@@ -52,7 +52,7 @@ You can clone the repository using the following command:
 
 ::
 
-    git clone https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgerycore
+    git clone https://github.com/UCL/scikit-surgerycore.git
 
 
 Running the tests
@@ -65,11 +65,21 @@ You can run the unit tests by installing and running tox:
     pip install tox
     tox
 
+
+Requirements
+^^^^^^^^^^^^
+
+To check all the requirements for scikit-surgerycore, please see `Requirement`_.
+
 Contributing
 ^^^^^^^^^^^^
 
 Please see the `contributing guidelines`_.
 
+Developing with PyCharm
+^^^^^^^^^^^^^^^^^^^^^^^
+
+For hints when developing with PyCharm, please see the `Developing with Pycharm`_.
 
 Useful links
 ^^^^^^^^^^^^
@@ -101,3 +111,5 @@ Supported by `Wellcome`_ and `EPSRC`_.
 .. _`contributing guidelines`: https://github.com/UCL/scikit-surgerycore/blob/master/CONTRIBUTING.rst
 .. _`license file`: https://github.com/UCL/scikit-surgerycore/blob/master/LICENSE
 .. _`Arun et al., 1987`: http://doi.ieeecomputersociety.org/10.1109/TPAMI.1987.4767965
+.. _`Developing with Pycharm`: https://github.com/UCL/scikit-surgerycore/blob/master/doc/pycharm.rst
+.. _`requirements`: https://github.com/UCL/scikit-surgerycore/blob/master/doc/requirements.rst
