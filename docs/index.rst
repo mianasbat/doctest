@@ -12,21 +12,6 @@ Welcome to scikit-surgerycore's documentation!
 
    readme
 
-..
-   toctree::
-   :maxdepth: 2
-   :caption: Requirements
-
-   requirements
-
-..
-   toctree::
-   :maxdepth: 2
-   :caption: PyCharm
-
-   pycharm
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Docstring
