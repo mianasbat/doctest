@@ -13,10 +13,12 @@ Welcome to scikit-surgerycore's documentation!
    readme
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Docstring
 
-   Module Contents <modules>
+   modules
+..
+   Module contents <modules>
 
 .. toctree::
    :maxdepth: 2
