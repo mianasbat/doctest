@@ -23,3 +23,7 @@ Welcome to scikit-surgerycore's documentation!
    :caption: Index
 
    indices
+
+   requirements
+
+   pycharm
