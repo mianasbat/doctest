@@ -16,7 +16,7 @@ Welcome to scikit-surgerycore's documentation!
    :maxdepth: 2
    :caption: Docstring
 
-   Modules <modules>
+   modules
 
 .. toctree::
    :maxdepth: 2
